@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Joanne Wang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Python,Java
+- 🌱 I’m currently learning Javascript
 - 📫 Email:wj.joanna@qq.com
 
 <!---
