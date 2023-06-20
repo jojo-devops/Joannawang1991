@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joanne Wang
-- 👀 I’m interested in Python,Java
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Go,Python
+- 🌱 I’m currently learning K8s,Jenkins
 - 📫 Email:joanna.wang199112@gmail.com
 
 <!---
